@@ -1,0 +1,12 @@
+
+
+/* string concatenation  */
+
+begin
+
+string s1= "abc";
+string s2 = "123";
+
+print s1 + s2;
+print " hello" + "world" 
+end

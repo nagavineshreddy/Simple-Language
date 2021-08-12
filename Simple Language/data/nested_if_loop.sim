@@ -1,0 +1,22 @@
+/* nested if-then-else loop */
+
+begin
+int x=5;
+string s="x is greater than 3 and equal to 5";
+string s1="x is equal to 5 and less than or equal to 3";
+string s2 = " after inside for loop ";
+string s3 = "not equal to 5";
+
+
+if(x==5)then {
+	if(x>3)then {
+		print s
+	}else{
+		print s1
+	};
+	print s2
+}else
+	{
+		print s3
+	}
+end

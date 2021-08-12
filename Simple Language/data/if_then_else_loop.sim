@@ -1,0 +1,14 @@
+/* if-else loop */
+begin
+int x=5;
+int x =6;
+string s="equal to 5";
+string s1="not equal to 5";
+if(x==5)then {
+print s
+}
+else
+{
+print s1
+}
+end

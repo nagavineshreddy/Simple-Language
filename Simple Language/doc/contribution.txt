@@ -1,0 +1,45 @@
+Contribution:
+
+Sai Kumar Chunchu:
+Done research on the Internet regarding the type of Lexer we can use for our project. Discussed Grammar to be included
+in our SIMPLE Language. Created Github repository. Discussed and prepared the document for Milestone-1. Written Grammar rules for Single Line comments,
+declarations and commands.
+Wrote Eval predicates to give semantics to tree nodes.
+Wrote bat script for executing the program.
+Implemented the readability comments functionality.
+Contributed to presentation and video.
+Added the ".sim" extension check functionality.
+ 
+
+
+Vinesh Reddy Naga:
+Done research on the internet regarding various Parsing techniques. Discussed Grammar to be included in our SIMPLE Language.
+Discussed and prepared the document for Milestone-1. Written Grammar rules for conditional loops i.e. for loop and while loop.
+Implemented for loop, for in range loop, while loop and if then else statement in semantics.
+Wrote Sample programs to test.
+Implemented throw, catch for main predicate.
+Contributed to presentation and video.
+Fixed the bugs.
+ 
+
+
+Venkata Vamsikrishna Iytha:
+Done research on the Internet regarding the type of Parser and Semantics that can be used for our project.
+Discussed and prepared the document for Milestone-1. Written Grammar rules for Ternary Operator and Unary Operators.
+Discussed Grammar to be included in our SIMPLE Language.
+Wrote DCG format for the grammar, and generated parse tree.
+Wrote string concatenation logic.
+Implemented the code for countering the re-declaration of variables.
+Contributed to presentation and video.
+Wrote bat script for installing the dependencies.
+
+ 
+ 
+Yogaleena Mandalapu:
+Done research on the internet regarding Interpreter and Compiler that can be used for our project. Discussed Grammar to be included
+in our SIMPLE Language. Discussed and prepared the document for Milestone-1. Written Grammar rules for Data types and Expression.
+Wrote type checking for the variables.
+Implemented tokenizer to get read input file.
+Implemented the ternary, boolean functionalities.
+Contributed to presentation and video.
+Integrated the code and checked the validations.

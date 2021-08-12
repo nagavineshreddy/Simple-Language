@@ -1,0 +1,16 @@
+/* fifth table */
+
+
+begin
+
+
+int y = 5;
+string s1 = " ";
+int p;
+for ( int i=1 ; i<=10 ; i++){
+		p = i*y;
+		print s1;
+		print p
+
+}
+end

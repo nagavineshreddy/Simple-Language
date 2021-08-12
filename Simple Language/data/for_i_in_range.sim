@@ -1,0 +1,13 @@
+/* for i in range */
+begin
+	int x;
+	int p;
+	string s = " ";
+	for x  in range ( 1, 5) {
+		
+		p = x + 10 ;
+		print p ;
+		print s
+	}
+
+end

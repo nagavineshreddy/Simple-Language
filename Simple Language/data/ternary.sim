@@ -1,0 +1,13 @@
+/ *  ternary  * / 
+
+begin
+  int  x  =  5 ;
+  string  a  = "true" ;
+  string  b  =  "false" ;
+  string y;
+  y  =   x > 3  ?  a  :  b ;
+  print  y 
+end
+
+
+ 

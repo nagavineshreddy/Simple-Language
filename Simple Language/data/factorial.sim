@@ -1,0 +1,11 @@
+/* factorial */
+begin
+
+  int y = 1 ;
+  
+  for  (int x = 5 ; x >= 1 ; x -- )   {
+		y = x * y 
+	};
+	
+	print y
+end
